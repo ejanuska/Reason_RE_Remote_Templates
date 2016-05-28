@@ -1,0 +1,66 @@
+
+Scope	Rob Papen	com.robpapen.Vecto
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// Switch 7 and 8 are pre-mapped to move to previous/next device
+// Switch 15 and 16 are pre-mapped to select next/previous patch
+// Control Bank A
+Map	Switch 1		Osc 1 On
+Map	Switch 2		Osc 2 On
+Map	Switch 3		Osc 3 On
+Map	Switch 4		Osc 4 On
+Map	Switch 5		XY On
+Map	Switch 6		XY Mode
+Map	Knob 1		Osc 1 Type
+Map	Knob 2		Osc 2 Type
+Map	Knob 3		Osc 3 Type
+Map	Knob 4		Osc 4 Type
+Map	Knob 5		Osc 1 Octave
+Map	Knob 6		Osc 2 Octave
+Map	Knob 7		Osc 3 Octave
+Map	Knob 8		Osc 4 Octave
+Map	Fader 1		Attack
+Map	Fader 2		Decay
+Map	Fader 3		Sustain
+Map	Fader 4		Fade
+Map	Fader 5		Release
+Map	Fader 6		Velocity
+Map	Fader 7		Velocity Shape
+Map	Fader 8		Pan
+// Control Bank B
+Map	Knob 9		Filter 1 Type
+Map	Knob 10		Filter 1 Path
+Map	Knob 11		Filter 1 Frequency
+Map	Knob 12		Filter 1 Q
+Map	Knob 13		Filter 1 Volume 
+Map	Knob 14		Mod > Filter 1 Frequency
+Map	Knob 15		Filter 1 Keytracking
+Map	Knob 16		Filter 1 Pan
+Map	Fader 9		Filter 1 Envelope Attack
+Map	Fader 10		Filter 1 Envelope Decay
+Map	Fader 11		Filter 1 Envelope Sustain
+Map	Fader 12		Filter 1 Envelope Fade
+Map	Fader 13		Filter 1 Envelope Release
+Map	Fader 14		Filter 1 Envelope Amount
+Map	Fader 15		Filter 1 Vowel
+// Control Bank C
+Map	Fader 16		Free Env 1 Attack in MS
+Map	Fader 17		Free Env 1 Decay in MS
+Map	Fader 18		Free Env 1 Sustain (MS)
+Map	Fader 19		Free Env 1 Fade in MS
+Map	Fader 20		Free Env 1 Release in MS
+Map	Fader 21		Free Env 2 Attack in MS
+Map	Fader 22		Free Env 2 Decay in MS
+Map	Fader 23		Free Env 2 Sustain (MS)
+Map	Fader 24		Free Env 2 Release in MS
+Map	Knob 17		Key > Free Env 1 Speed
+Map	Knob 18		Vel > Free Env 1 Speed
+Map	Knob 19		Free LFO 1 Wave
+Map	Knob 20		Key > Free Env 2 Speed
+Map	Knob 21		Vel > Free Env 2 Speed
+Map	Knob 22		Free LFO 2 Wave
+Map	Knob 23		Free LFO 1 Speed in Hz
+Map	Knob 24		Free LFO 2 Speed in Hz
+Map	Switch 21		Free LFO 1 Sync
+Map	Switch 22		Free LFO 2 Sync
+Map	Switch 19		Mod FX On / Off
+Map	Switch 20		Delay FX On / Off
